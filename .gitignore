@@ -1,0 +1,20 @@
+#Secrets
+.env
+*.env
+
+#Python
+.ven/
+ven/
+__pycache__/
+*.pyc
+
+#Data and Output
+*.db
+*.sqlite3
+chroma_db/
+output/
+
+#Os and editor
+.DS_Store
+.vscode/
+
