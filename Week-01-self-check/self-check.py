@@ -17,3 +17,5 @@ else:
     for task in tasks:
         status = "done" if task["done"] else "not done"
         logger.info(f"{task['name']}: {status}")
+
+
